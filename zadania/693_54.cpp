@@ -1,10 +1,11 @@
-/* LIV/693 Opus Magnum (Tom 2) 
- * 
- * Napisz funkcję, która w stringu (przysłanym jej jako argument) zamieni znaki w taki
- * sposób, że znaki parzyste będą napisane wielkimi literami, a nieparzyste - małymi.
- * Wynik pracy zapisany w obiekcie klasy string ma być rezultatem zwracanym przez tę funkcję.
- * 
- */
+/* 
+  LIV/693 Opus Magnum (Tom 2) 
+
+  Napisz funkcję, która w stringu (przysłanym jej jako argument) zamieni znaki w taki
+  sposób, że znaki parzyste będą napisane wielkimi literami, a nieparzyste - małymi.
+  Wynik pracy zapisany w obiekcie klasy string ma być rezultatem zwracanym przez tę funkcję.
+
+*/
 
 
 #include <iostream>

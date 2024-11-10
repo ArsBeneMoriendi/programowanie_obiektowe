@@ -13,7 +13,7 @@
 
 using namespace std;
 
-string sizeSwap(const string& text)
+string changeSize(const string& text)
 {
     string output;
 
@@ -38,7 +38,7 @@ int main()
     string input;
     cin >> input;
 
-    string output = sizeSwap(input);
+    string output = changeSize(input);
     cout << "Tekst po modyfikacji: " << output << endl;
 
     return 0;
